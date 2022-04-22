@@ -5,7 +5,11 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
+<<<<<<< HEAD
 /[Bb]uild/
+=======
+# /[Bb]uild/
+>>>>>>> fbd3794a8daa3b91fa59dd7a800d44033470772e
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
