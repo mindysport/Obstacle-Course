@@ -127,7 +127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  limit: 75
+  limit: 70
   randomStart: 1
 --- !u!1001 &8691693902057575359
 PrefabInstance:
