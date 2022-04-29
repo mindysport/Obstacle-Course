@@ -19,7 +19,7 @@ public class Pendulum : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-		float angle = limit * Mathf.Sin(Time.time + random * speed);
+		float angle = limit * Mathf.Sin(Time.time * speed);
 		transform.localRotation = Quaternion.Euler(angle, 0, 0);
 	}
 }
